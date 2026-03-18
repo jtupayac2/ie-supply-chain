@@ -1,2 +1,1 @@
-# Supply Chain Analysis Repo
-E ACCOUNT B : content for conflict
+# THIS IS USER B ADDING CHANGES
