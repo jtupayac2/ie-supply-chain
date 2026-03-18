@@ -1,2 +1,2 @@
 # Supply Chain Analysis Repo
-E ACCOUNT B : content for conflict
+new content on branch quality
